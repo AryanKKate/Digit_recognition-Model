@@ -9,3 +9,4 @@
   <li>Helper Function to preprocess self taken images and predict outcomes</li>
 </ul>
 
+<h3><b>Note :</b> While taking photo of your handwritten digit makesure to crop out as much whitespace as possible to ensure higher accuracy</h3>
